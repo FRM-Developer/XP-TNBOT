@@ -1,5 +1,5 @@
-# 🤖AR15BOT🤖
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+# 🤖XP-TNBOT🤖
+BOT WHATSAPP TERMUX ONLY BY XP-TN
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
