@@ -1,5 +1,6 @@
 # 🤖XP-TNBOT🤖
 BOT WHATSAPP TERMUX ONLY BY XP-TN
+<img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="320">
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
