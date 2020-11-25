@@ -145,8 +145,8 @@ conn.sendMessage(id, 'Owner wa.me/+6289655478810' ,MessageType.text);
 else if (text == '$creator'){
 conn.sendMessage(id, 'Creator wa.me/+6289655478810' ,MessageType.text);
 }
-else if (text == 'Aris'){
-conn.sendMessage(id, 'Aku BOT nya Aris' ,MessageType.text);
+else if (text == 'Agung'){
+conn.sendMessage(id, 'Aku BOT nya Agung' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
 conn.sendMessage(id, 'Ngentod Bapak kau_-' ,MessageType.text);
@@ -245,7 +245,7 @@ else if (text == 'Thanks'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
 }
 
-// Fitur A187id
+// Fitur XPTN
 
 if (text.includes('$nulis')){
   const text = text.replace(/$nulis /, '')
