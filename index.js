@@ -626,7 +626,7 @@ conn.sendMessage(id, 'kirim $foto cewek/cowok\n\nContoh: $foto cewek' ,MessageTy
             {
                 let splitbijak = body.split('\n')
                 let randombijak = splitbijak[Math.floor(Math.random() * splitbijak.length)]
-               conn.sendMessage(id, randombijak, conn.sendMessage)
+               conn.sendMessage(id, randombijak, MessageType.text)
             });
       }
 
@@ -925,7 +925,7 @@ if (text.includes("$alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+//Tolonglah bro jangan di ubah ubah XP-TNBOT
 
 
 })
