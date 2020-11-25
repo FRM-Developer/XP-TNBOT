@@ -41,6 +41,7 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 |       ✅       | Foto cewek/cowok (new)           |
 |       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
+|       ✅       | kata bijak.                      |
 |       ✅       | Quotes                           |
 |       ✅       | Nama (new)                       |
 |       ✅       | Foto Anime                       |
