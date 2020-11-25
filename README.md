@@ -23,7 +23,7 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/XP-TN/XP-TNBOT
-> cd whatsapp-bot
+> cd XP-TNBOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
