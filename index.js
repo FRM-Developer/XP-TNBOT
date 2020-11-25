@@ -1,4 +1,4 @@
-﻿/*
+/*
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya XP-TN/ARISID).
 */
@@ -652,6 +652,95 @@ _${kata}_
 
          });
    }
+   if (text.includes(".hentai"))
+   {
+    var items = ["nsfwneko","anime hentai"];
+    var anim = items[Math.floor(Math.random() * items.length)];
+    var url = "https://api.computerfreaker.cf/v1/";
+    
+    axios.get(url)
+      .then((result) => {
+        var b = JSON.parse(JSON.stringify(result.data));
+        var anim =  b[Math.floor(Math.random() * b.length)];
+        imageToBase64(anim) // Path to the image
+        .then(
+            (response) => {
+	var buf = Buffer.from(response, 'base64'); // Ta-da	
+              conn.sendMessage(
+            id,
+              buf,MessageType.image)
+       
+            }
+        )
+        .catch(
+            (error) => {
+                console.log(error); // Logs an error if there was one
+            }
+        )
+    
+    });
+    }
+
+
+   
+   if (text.includes(".loli"))
+   {
+    var items = ["anime loli","anime loli sange","anime loli fackgirll","anime loli i love you"];
+    var nime = items[Math.floor(Math.random() * items.length)];
+    var url = "https://api.fdci.se/rep.php?gambar=" + nime;
+    
+    axios.get(url)
+      .then((result) => {
+        var n = JSON.parse(JSON.stringify(result.data));
+        var nimek =  n[Math.floor(Math.random() * n.length)];
+        imageToBase64(nimek) 
+        .then(
+            (response) => {
+	var buf = Buffer.from(response, 'base64'); 
+              conn.sendMessage(
+            id,
+              buf,MessageType.image)
+       
+            }
+        )
+        .catch(
+            (error) => {
+                console.log(error);
+            }
+        )
+    
+    });
+    }
+    
+if (text.includes(".pokemon"))
+   {
+    var items = ["anime pokemon"];
+    var nime = items[Math.floor(Math.random() * items.length)];
+    var url = "https://api.fdci.se/rep.php?gambar=" + nime;
+    
+    axios.get(url)
+      .then((result) => {
+        var n = JSON.parse(JSON.stringify(result.data));
+        var nimek =  n[Math.floor(Math.random() * n.length)];
+        imageToBase64(nimek) 
+        .then(
+            (response) => {
+	var buf = Buffer.from(response, 'base64'); 
+              conn.sendMessage(
+            id,
+              buf,MessageType.image)
+       
+            }
+        )
+        .catch(
+            (error) => {
+                console.log(error);
+            }
+        )
+    
+    });
+    }
+
    else if (text.includes("$nama ")) 
   {
     const cheerio = require('cheerio');
