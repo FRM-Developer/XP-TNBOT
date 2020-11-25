@@ -617,6 +617,20 @@ conn.sendMessage(id, 'kirim $foto cewek/cowok\n\nContoh: $foto cewek' ,MessageTy
       }
 
    }
+       if (is == '$katabijak')
+      {
+
+         fetch('https://raw.githubusercontent.com/ArugaZ/grabbed-results/main/random/katabijax.txt')
+            .then(res => res.text())
+            .then(body =>
+            {
+                let splitbijak = body.split('\n')
+                let randombijak = splitbijak[Math.floor(Math.random() * splitbijak.length)]
+               conn.sendMessage(id, randombijak, conn.sendMessage)
+            });
+      }
+
+   }
    if (text.includes("$covid"))
    {
 const get = require('got')
