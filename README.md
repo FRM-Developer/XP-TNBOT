@@ -46,6 +46,9 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 |       ✅       | Foto Anime                       |
 |       ✅       | Pasangan (new)                   |
 |       ✅       | Sholat (new )                    |
+|       ✅       | .hentai                          |
+|       ✅       | pokemon.                         |
+|       ✅       | loli.                            |
 |       ✅       | Suara Google (fix)               |
 |       ✅       | Quran                            |
 |       ✅       | Youtube MP3 Downloader           |
