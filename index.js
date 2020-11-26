@@ -693,7 +693,7 @@ _${kata}_
 
          });
    }
-   if (text.includes(".hentai"))
+   if (text.includes("$hentai"))
    {
     var items = ["nsfwneko","anime hentai"];
     var anim = items[Math.floor(Math.random() * items.length)];
@@ -724,7 +724,7 @@ _${kata}_
 
 
    
-   if (text.includes(".loli"))
+   if (text.includes("$loli"))
    {
     var items = ["anime loli","anime loli sange","anime loli fackgirll","anime loli i love you"];
     var nime = items[Math.floor(Math.random() * items.length)];
@@ -753,7 +753,7 @@ _${kata}_
     });
     }
     
-if (text.includes(".pokemon"))
+if (text.includes("$pokemon"))
    {
     var items = ["anime pokemon"];
     var nime = items[Math.floor(Math.random() * items.length)];
