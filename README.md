@@ -31,7 +31,7 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 ## Features
 
 | XP-TNBOT      |                   Feature        |
-| :-----------: | :------------------------------: |
+ :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
 |       ✅       | Covid (new)                      |
@@ -41,17 +41,11 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 |       ✅       | Foto cewek/cowok (new)           |
 |       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
-|       ✅       | kata bijak.                      |
 |       ✅       | Quotes                           |
 |       ✅       | Nama (new)                       |
 |       ✅       | Foto Anime                       |
 |       ✅       | Pasangan (new)                   |
 |       ✅       | Sholat (new )                    |
-|       ✅       | .hentai                          |
-|       ✅       | pokemon.                         |
-|       ✅       | loli.                            |
-|       ✅       | chord                            |
-|       ✅       | info                            |
 |       ✅       | Suara Google (fix)               |
 |       ✅       | Quran                            |
 |       ✅       | Youtube MP3 Downloader           |
@@ -62,9 +56,15 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 |       ✅       | Wikipedia                        |
 |       ✅       | Say                              |
 |       ✅       | Toxic (new)                      |
+|       ✅       | loli                             |
+|       ✅       | hentai                           |
 |       ✅       | Owner (new)                      |
+|       ✅       | kata bijak                       |
+|       ✅       | Fakta                            |
+|       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
+|                   MORE                           |
 
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (XP-TN)
