@@ -50,6 +50,8 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 |       ✅       | .hentai                          |
 |       ✅       | pokemon.                         |
 |       ✅       | loli.                            |
+|       ✅       | chord                            |
+|       ✅       | info                            |
 |       ✅       | Suara Google (fix)               |
 |       ✅       | Quran                            |
 |       ✅       | Youtube MP3 Downloader           |
